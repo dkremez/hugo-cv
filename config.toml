@@ -6,8 +6,8 @@ googleAnalytics = "UA-153716840-1"
 
 # Page settings
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = "Dzmitry Kremez"
+    description = "DevResume - Personal online CV. Created with Hugo - Golang site generator"
     primaryColor = "#ec1a24"
     textPrimaryColor = "#292929"
 
