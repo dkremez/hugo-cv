@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://dkremez.github.io/"
 languageCode = "en"
 title = "Dzmitry Kremez"
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-153716840-1"
 
 # Page settings
 [params]
