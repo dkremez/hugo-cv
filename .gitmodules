@@ -2,6 +2,6 @@
 	path = themes/hugo-devresume-theme
 	url = https://github.com/cowboysmall-tools/hugo-devresume-theme.git
 [submodule "dkremez.github.io"]
-	path = dkremez.github.io
+	path = public
 	url = git@github.com:dkremez/dkremez.github.io.git
 	branch = master
