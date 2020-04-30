@@ -22,15 +22,15 @@ googleAnalytics = "UA-153716840-1"
         location = "Minsk"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
+        url = "tel:+375295103865"
         text = "+375295103865"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:mr.dkremez@gmail.com"
         text = "mr.dkremez@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "#"
+        url = "https://github.com/dkremez"
         text = "https://github.com/dkremez"
 
 
