@@ -142,7 +142,7 @@ googleAnalytics = "UA-153716840-1"
 
     [params.summary]
         enable = true
-        text = "As a Software Engineer with 7+ years of experience on Web and related fields, I specialize in front-end, backend development and software architecture. It means that I have a familiarity with each layer of development and a commitment to gaining expertise in all software technology. I enjoy working with small businesses and individual decision makers to provide architectural and custom business solutions that help my clients resolve mission-critical problems, grow their business, and improve their revenue stream and profitability."
+        text = "As a Software Engineer and Software Development Manager with 8+ years of experience on Web and related fields, I specialize in front-end, backend development and software architecture. It means that I have a familiarity with each layer of development and a commitment to gaining expertise in all software technology. I enjoy working with small businesses and individual decision makers to provide architectural and custom business solutions that help my clients resolve mission-critical problems, grow their business, and improve their revenue stream and profitability."
 
 
 
@@ -155,8 +155,32 @@ googleAnalytics = "UA-153716840-1"
         enable = true
 
         [[params.experience.list]]
+        title = "Departament Manager"
+        dates = "2020 - Present"
+        company = "iTechArt Group"
+        details = "As a Department Manager, my responsibilities are:"
+        [[params.experience.list.items]]
+        details = "Financial indicators, KPI management."
+        [[params.experience.list.items]]
+        details = "Leadeship team management: Define department goals, share our vision, delegating, consultancy, escalations management, controlling."
+        [[params.experience.list.items]]
+        details = "Management of software development departments."
+        [[params.experience.list.items]]
+        details = "Participate in pre-sales activities."
+        [[params.experience.list.items]]
+        details = "Communication with company customers."
+        [[params.experience.list.items]]
+        details = "Personnel management: staffing, training, performance review conducting, delegating."
+        [[params.experience.list.items]]
+        details = "Improvement of software development processes."
+        [[params.experience.list.items]]
+        details = "Organize education activities: technology meetups, workshops, knowledge sharing sessions."
+        [[params.experience.list.items]]
+        details = "Organize departments team buildings."
+
+        [[params.experience.list]]
         title = "Group Manager"
-        dates = "2017 - Present"
+        dates = "2017 - 2020"
         company = "iTechArt Group"
         details = "As a Group Manager, my responsibilities are:"
         [[params.experience.list.items]]
@@ -189,6 +213,8 @@ googleAnalytics = "UA-153716840-1"
         details = "Analysis of code structure, architecture."
         [[params.experience.list.items]]
         details = "Back-end & Front-end development."
+        [[params.experience.list.items]]
+        details = "Speaking at conferences and meetups."
 
         [[params.experience.list]]
         title = "Software Egnineer"
@@ -267,6 +293,16 @@ googleAnalytics = "UA-153716840-1"
 
     [params.information]
         enable = true
+
+        [[params.information.list]]
+        title = "iTechArt Company Contacts"
+        [[params.information.list.items]]
+        details = "Address: Minsk, 220007, st. Tolstoy, 10"
+        [[params.information.list.items]]
+        details = "Phone: +375333876163"
+        [[params.information.list.items]]
+        details = "Unit Director: Mikhail Linnik, mikhail.linnik@itechart-group.com, +375447087579"
+
         [[params.information.list]]
         title="Additional Education"
         [[params.information.list.items]]
